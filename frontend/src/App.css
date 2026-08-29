@@ -358,7 +358,7 @@ h3 {
         color: #ffffff;
     }
 
-}
+
 
 
 /* =========================================================
@@ -892,6 +892,8 @@ h3 {
     display: -webkit-box;
 
     -webkit-line-clamp: 3;
+
+    line-clamp: 3;
 
     -webkit-box-orient: vertical;
 
