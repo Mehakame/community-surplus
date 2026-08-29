@@ -1,4 +1,4 @@
-const API_URL = "https://community-surplus.onrender.com";
+const API_URL = "https://community-surplus.onrender.com/api";
 
 // =========================
 // AUTH
